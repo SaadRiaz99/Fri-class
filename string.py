@@ -9,5 +9,5 @@ Up above the world so high,
 Like a diamond in the sky."""
 print(text3)
 name = "saad bin riaz "
-a = name.
+a = name
 print(a)

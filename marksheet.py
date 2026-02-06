@@ -25,7 +25,7 @@ else:
     print("Percentage:", percentage, "%")
 
     if percentage >= 80:
-        print("Grade: A+ 🎉")
+        print("Grade: A+ ")
     elif percentage >= 70:
         print("Grade: A")
     elif percentage >= 60:
@@ -34,3 +34,4 @@ else:
         print("Grade: C")
     else:
         print("Fail ")
+print(f"number of english {English}")
